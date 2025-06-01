@@ -168,7 +168,7 @@ Potential improvements to the project:
 
 - [Stim Documentation](https://github.com/quantumlib/Stim)
 - [PyMatching Documentation](https://github.com/oscarhiggott/PyMatching)
-- [Surface Code Theory](https://arxiv.org/abs/quant-ph/9813020)
+- [Surface Code Theory](https://arxiv.org/abs/1208.0928)
 - [Quantum Error Correction](https://arxiv.org/abs/0904.2557)
 
 ## Contributing
